@@ -1,0 +1,10 @@
+/* categorical */
+.color-high {
+  background-color: red !important;
+}
+.color-medium {
+  background-color: orange !important;
+}
+.color-low {
+  background-color: green !important;
+}
