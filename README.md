@@ -5,7 +5,7 @@ based on the value in that cell.
 
 ## Limitations
 
-This extension is currently only applied to the `.. csv-table::` directive
+This extension extends the `.. csv-table::` directive
 and has only been tested on cells with a single value in it.
 
 This repo isn't set up as other sphinx extensions at the moment. To use,
@@ -14,7 +14,7 @@ custom css if building html, and update your `conf.py`.
 
 ## Usage
 
-When using the `.. colored-csv-table::` directive, two new options are include:
+When using the `.. colored-csv-table::` directive, two new options are included:
 `:color-column` and `:color-map:`.
 
 These directives
